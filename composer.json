@@ -1,0 +1,13 @@
+{
+    "name": "task/c2-php-team-ev-exercises",
+    "authors": [
+        {
+            "name": "Task Nagashige",
+            "email": "task.19.xx@gmail.com"
+        }
+    ],
+    "require": {
+      "php": "7.3.*",
+      "ext-mbstring": "*"
+    }
+}
