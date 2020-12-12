@@ -1,4 +1,4 @@
-name: PHP Simple Ci
+name: PHP Simple CI
 
 on:
   push:
