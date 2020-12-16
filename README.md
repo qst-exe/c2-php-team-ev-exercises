@@ -16,3 +16,7 @@ https://c2-php-team-dev-exercises.herokuapp.com/
 1. レビューを依頼する
 1. レビューで問題なければmainブランチにmergeする
 1. 自動デプロイされるので [本番環境](https://c2-php-team-dev-exercises.herokuapp.com/) で確認する
+
+## 参考資料
+
+- [職業実践2 PHP](https://zenn.dev/qst/books/f49e20f55253fa2ba0d0)
