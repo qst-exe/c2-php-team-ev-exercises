@@ -10,7 +10,6 @@
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <?php
-        for ($button_id = 1; $button_id <= $button_num; $button_id++) {
             echo "<link rel='stylesheet' type='text/css'' href='css/button$button_id.css'>";
         }
     ?>
