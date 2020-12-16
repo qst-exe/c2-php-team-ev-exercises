@@ -1,6 +1,8 @@
 // jQueryのボタン押下の処理
 $(function() {
   $('.button76').click(function(e) {
-    alert('笑');
+  for(let i = 1;i <= 100;i++){
+    $('.button'+ i).addClass('case1');
+  }
   });
 });

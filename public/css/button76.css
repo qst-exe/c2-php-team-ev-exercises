@@ -1,6 +1,19 @@
 .button76 {
-    color: rgb(128, 0, 49);
-    background-color: rgb(247, 8, 255);
+    
+    color: rgb(10, 10, 10);
+    background-color: rgb(255, 156, 8);
     width: 120px;
-    height: 30px;
+    height:30px;
+}
+.case1{
+    transition: 2s;
+    font-size: 3.5em;
+    font-weight: bold;
+    padding: 10px 30px;
+    width: 240px;
+    height:240px;
+    box-shadow: 5px 5px 5px 1px #666;
+    -moz-box-shadow: 5px 5px 5px 1px #666;
+    -webkit-box-shadow: 5px 5px 5px 1px #666;
+
 }
