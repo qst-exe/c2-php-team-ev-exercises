@@ -1,6 +1,7 @@
 // jQueryのボタン押下の処理
 $(function() {
   $('.button83').click(function(e) {
-    alert('ボタン83が押されました。');
+    alert('牡丹八三ノ変更平');
+    window.location.href = 'https://www.yahoo.co.jp';
   });
 });
