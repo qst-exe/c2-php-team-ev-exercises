@@ -1,6 +1,7 @@
 .button78 {
-    color: black;
-    background-color: white;
-    width: 120px;
-    height: 30px;
+    width: 0;
+    height: 0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 120px solid #dd0000;
 }
