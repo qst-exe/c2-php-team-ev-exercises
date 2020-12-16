@@ -1,6 +1,11 @@
 .button81 {
-    color: black;
-    background-color: white;
+    color: rgb(0, 27, 182);
+    background-color: rgb(207, 207, 207);
     width: 120px;
     height: 30px;
+    animation: pika2 0.3s infinite alternate;
+}
+@keyframes pika2{
+    from{opacity: 1;} 
+    to{opacity:0;}
 }
