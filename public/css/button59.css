@@ -1,6 +1,17 @@
 .button59 {
     color: black;
-    background-color: white;
+    background-color: green;
     width: 120px;
     height: 30px;
+}
+
+.active{
+    transition: 2s;
+    background: red;
+    width: 300px;
+    height: 200px;
+}
+.active2{
+    opacity: 0;
+    transition: 5s;
 }
