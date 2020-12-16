@@ -1,6 +1,10 @@
 .button60 {
-    color: black;
-    background-color: white;
-    width: 120px;
-    height: 30px;
+  color: black;
+  background-color: white;
+  width: 120px;
+  height: 30px;
+}
+.button60 {
+  background: #f0c;
+  width: 300px;
 }
